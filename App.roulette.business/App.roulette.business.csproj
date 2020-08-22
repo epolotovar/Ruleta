@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\App.roulette.data\App.roulette.data.csproj" />
+    <ProjectReference Include="..\App.roulette.entities\App.roulette.entities.csproj" />
+    <ProjectReference Include="..\App.roulette.utility\App.roulette.utility.csproj" />
+  </ItemGroup>
+
+</Project>

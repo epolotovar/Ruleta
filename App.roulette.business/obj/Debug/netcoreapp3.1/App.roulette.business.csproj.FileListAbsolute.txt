@@ -1,0 +1,15 @@
+C:\Proyectos\Git\roulette\App.roulette.solution\App.roulette.business\bin\Debug\netcoreapp3.1\App.roulette.business.deps.json
+C:\Proyectos\Git\roulette\App.roulette.solution\App.roulette.business\bin\Debug\netcoreapp3.1\App.roulette.business.dll
+C:\Proyectos\Git\roulette\App.roulette.solution\App.roulette.business\bin\Debug\netcoreapp3.1\App.roulette.business.pdb
+C:\Proyectos\Git\roulette\App.roulette.solution\App.roulette.business\bin\Debug\netcoreapp3.1\App.roulette.data.dll
+C:\Proyectos\Git\roulette\App.roulette.solution\App.roulette.business\bin\Debug\netcoreapp3.1\App.roulette.utility.dll
+C:\Proyectos\Git\roulette\App.roulette.solution\App.roulette.business\bin\Debug\netcoreapp3.1\App.roulette.data.pdb
+C:\Proyectos\Git\roulette\App.roulette.solution\App.roulette.business\bin\Debug\netcoreapp3.1\App.roulette.utility.pdb
+C:\Proyectos\Git\roulette\App.roulette.solution\App.roulette.business\obj\Debug\netcoreapp3.1\App.roulette.business.csprojAssemblyReference.cache
+C:\Proyectos\Git\roulette\App.roulette.solution\App.roulette.business\obj\Debug\netcoreapp3.1\App.roulette.business.AssemblyInfoInputs.cache
+C:\Proyectos\Git\roulette\App.roulette.solution\App.roulette.business\obj\Debug\netcoreapp3.1\App.roulette.business.AssemblyInfo.cs
+C:\Proyectos\Git\roulette\App.roulette.solution\App.roulette.business\obj\Debug\netcoreapp3.1\App.roulette.business.csproj.CopyComplete
+C:\Proyectos\Git\roulette\App.roulette.solution\App.roulette.business\obj\Debug\netcoreapp3.1\App.roulette.business.dll
+C:\Proyectos\Git\roulette\App.roulette.solution\App.roulette.business\obj\Debug\netcoreapp3.1\App.roulette.business.pdb
+C:\Proyectos\Git\roulette\App.roulette.solution\App.roulette.business\bin\Debug\netcoreapp3.1\App.roulette.entities.dll
+C:\Proyectos\Git\roulette\App.roulette.solution\App.roulette.business\bin\Debug\netcoreapp3.1\App.roulette.entities.pdb

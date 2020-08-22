@@ -1,0 +1,8 @@
+C:\Proyectos\Git\roulette\App.roulette.solution\App.roulette.entities\bin\Debug\netcoreapp3.1\App.roulette.entities.deps.json
+C:\Proyectos\Git\roulette\App.roulette.solution\App.roulette.entities\bin\Debug\netcoreapp3.1\App.roulette.entities.dll
+C:\Proyectos\Git\roulette\App.roulette.solution\App.roulette.entities\bin\Debug\netcoreapp3.1\App.roulette.entities.pdb
+C:\Proyectos\Git\roulette\App.roulette.solution\App.roulette.entities\obj\Debug\netcoreapp3.1\App.roulette.entities.csprojAssemblyReference.cache
+C:\Proyectos\Git\roulette\App.roulette.solution\App.roulette.entities\obj\Debug\netcoreapp3.1\App.roulette.entities.AssemblyInfoInputs.cache
+C:\Proyectos\Git\roulette\App.roulette.solution\App.roulette.entities\obj\Debug\netcoreapp3.1\App.roulette.entities.AssemblyInfo.cs
+C:\Proyectos\Git\roulette\App.roulette.solution\App.roulette.entities\obj\Debug\netcoreapp3.1\App.roulette.entities.dll
+C:\Proyectos\Git\roulette\App.roulette.solution\App.roulette.entities\obj\Debug\netcoreapp3.1\App.roulette.entities.pdb

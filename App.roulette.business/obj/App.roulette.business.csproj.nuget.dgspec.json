@@ -1,0 +1,254 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Proyectos\\Git\\roulette\\App.roulette.solution\\App.roulette.business\\App.roulette.business.csproj": {}
+  },
+  "projects": {
+    "C:\\Proyectos\\Git\\roulette\\App.roulette.solution\\App.roulette.business\\App.roulette.business.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Proyectos\\Git\\roulette\\App.roulette.solution\\App.roulette.business\\App.roulette.business.csproj",
+        "projectName": "App.roulette.business",
+        "projectPath": "C:\\Proyectos\\Git\\roulette\\App.roulette.solution\\App.roulette.business\\App.roulette.business.csproj",
+        "packagesPath": "C:\\Users\\Eliaspolo\\.nuget\\packages\\",
+        "outputPath": "C:\\Proyectos\\Git\\roulette\\App.roulette.solution\\App.roulette.business\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Eliaspolo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Proyectos\\Git\\roulette\\App.roulette.solution\\App.roulette.data\\App.roulette.data.csproj": {
+                "projectPath": "C:\\Proyectos\\Git\\roulette\\App.roulette.solution\\App.roulette.data\\App.roulette.data.csproj"
+              },
+              "C:\\Proyectos\\Git\\roulette\\App.roulette.solution\\App.roulette.entities\\App.roulette.entities.csproj": {
+                "projectPath": "C:\\Proyectos\\Git\\roulette\\App.roulette.solution\\App.roulette.entities\\App.roulette.entities.csproj"
+              },
+              "C:\\Proyectos\\Git\\roulette\\App.roulette.solution\\App.roulette.utility\\App.roulette.utility.csproj": {
+                "projectPath": "C:\\Proyectos\\Git\\roulette\\App.roulette.solution\\App.roulette.utility\\App.roulette.utility.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Proyectos\\Git\\roulette\\App.roulette.solution\\App.roulette.data\\App.roulette.data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Proyectos\\Git\\roulette\\App.roulette.solution\\App.roulette.data\\App.roulette.data.csproj",
+        "projectName": "App.roulette.data",
+        "projectPath": "C:\\Proyectos\\Git\\roulette\\App.roulette.solution\\App.roulette.data\\App.roulette.data.csproj",
+        "packagesPath": "C:\\Users\\Eliaspolo\\.nuget\\packages\\",
+        "outputPath": "C:\\Proyectos\\Git\\roulette\\App.roulette.solution\\App.roulette.data\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Eliaspolo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Proyectos\\Git\\roulette\\App.roulette.solution\\App.roulette.utility\\App.roulette.utility.csproj": {
+                "projectPath": "C:\\Proyectos\\Git\\roulette\\App.roulette.solution\\App.roulette.utility\\App.roulette.utility.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.Extensions.Configuration.Abstractions": {
+              "target": "Package",
+              "version": "[3.1.7, )"
+            },
+            "StackExchange.Redis": {
+              "target": "Package",
+              "version": "[2.1.58, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Proyectos\\Git\\roulette\\App.roulette.solution\\App.roulette.entities\\App.roulette.entities.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Proyectos\\Git\\roulette\\App.roulette.solution\\App.roulette.entities\\App.roulette.entities.csproj",
+        "projectName": "App.roulette.entities",
+        "projectPath": "C:\\Proyectos\\Git\\roulette\\App.roulette.solution\\App.roulette.entities\\App.roulette.entities.csproj",
+        "packagesPath": "C:\\Users\\Eliaspolo\\.nuget\\packages\\",
+        "outputPath": "C:\\Proyectos\\Git\\roulette\\App.roulette.solution\\App.roulette.entities\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Eliaspolo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Proyectos\\Git\\roulette\\App.roulette.solution\\App.roulette.utility\\App.roulette.utility.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Proyectos\\Git\\roulette\\App.roulette.solution\\App.roulette.utility\\App.roulette.utility.csproj",
+        "projectName": "App.roulette.utility",
+        "projectPath": "C:\\Proyectos\\Git\\roulette\\App.roulette.solution\\App.roulette.utility\\App.roulette.utility.csproj",
+        "packagesPath": "C:\\Users\\Eliaspolo\\.nuget\\packages\\",
+        "outputPath": "C:\\Proyectos\\Git\\roulette\\App.roulette.solution\\App.roulette.utility\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Eliaspolo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[3.1.7, )"
+            },
+            "Microsoft.Extensions.Configuration.FileExtensions": {
+              "target": "Package",
+              "version": "[3.1.7, )"
+            },
+            "Microsoft.Extensions.Configuration.Json": {
+              "target": "Package",
+              "version": "[3.1.7, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
